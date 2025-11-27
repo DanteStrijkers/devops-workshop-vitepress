@@ -50,10 +50,15 @@ Houd je voortgang bij door elke DevOps fase. **Bewerk dit bestand om je status b
 - [x] Mijn fork lokaal gekloond en de site werkend gekregen (`pnpm dev`)
 - [x] Mijn eerste feature branch aangemaakt (`feat/code-fase`)
 - [x] **Deze voortgangstracker bewerkt** met mijn persoonlijke informatie
-- [ ] Mijn eerste commit gemaakt met een goede commit message
-- [ ] Mijn branch gepusht naar GitHub
-- [ ] Mijn eerste Pull Request aangemaakt en gemerged
-- [ ] Geverifieerd dat mijn wijzigingen live zijn op mijn main branch
+- [x] Mijn eerste commit gemaakt met een goede commit message
+- [x] Mijn branch gepusht naar GitHub
+- [x] Mijn eerste Pull Request aangemaakt en gemerged
+- [x] Geverifieerd dat mijn wijzigingen live zijn op mijn main branch
+- [x] Release job toegevoegd aan CI workflow (getriggerd door tags)
+- [x] Mijn eerste tag aangemaakt en gepusht (`v1.0.0`)
+- [x] Een release gegenereerd met downloadbare assets
+- [x] Release ZIP bestand gedownload en geverifieerd
+- [x] Het verschil begrepen tussen releases en deployments
 
 **Mijn Code Fase Notities:**
 
@@ -62,8 +67,15 @@ Begonnen met DevOps leren door hands-on oefening!
 - Begrijp hoe branches veilige samenwerking mogelijk maken
 - Enthousiast om mijn wijzigingen later automatisch te zien deployen
 
+**Mijn Release Fase Notities:**
 
-**Tijdstempel Voltooid:** ``
+Release management brengt structuur naar softwaredistributie!
+- Semantic versioning biedt duidelijke change communicatie
+- Geautomatiseerde releases elimineren handmatige packaging fouten
+- ZIP archives maken offline distributie en backup mogelijk
+- GitHub releases creëren een professionele distributie ervaring
+
+**Tijdstempel Voltooid:** `13:48`
 
 ---
 
