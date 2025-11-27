@@ -71,7 +71,7 @@ Begonnen met DevOps leren door hands-on oefening!
 
 Release management brengt structuur naar softwaredistributie!
 - Semantic versioning biedt duidelijke change communicatie
-- Geautomatiseerde releases elimineren handmatige packaging fouten
+- Geautomatiseerde releases elimineren handmatige packaging fouten 
 - ZIP archives maken offline distributie en backup mogelijk
 - GitHub releases creëren een professionele distributie ervaring
 
