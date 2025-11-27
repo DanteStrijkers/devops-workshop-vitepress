@@ -19,11 +19,11 @@
 
 ## Persoonlijke Workshop Informatie
 
-**Deelnemer Naam:** `[Jouw Volledige Naam]`  
-**Workshop Datum:** `[Voeg vandaag's datum toe]`  
-**Doel:** `[Wat wil je bereiken? bijv., "Mijn eerste CI/CD pipeline bouwen"]`  
-**GitHub Gebruikersnaam:** `[jouw-github-gebruikersnaam]`  
-**Verwachte Site URL:** `https://[jouw-gebruikersnaam].github.io/devops-workshop-vitepress/`
+**Deelnemer Naam:** `Dante Strijkers`  
+**Workshop Datum:** `27/11/2025`  
+**Doel:** `Mijn eerste CI/CD pipeline bouwen`  
+**GitHub Gebruikersnaam:** `dantestrijkers`  
+**Verwachte Site URL:** `https://dantestrijkers.github.io/devops-workshop-vitepress/`
 
 ---
 
@@ -46,17 +46,24 @@ Houd je voortgang bij door elke DevOps fase. **Bewerk dit bestand om je status b
 </div>
 
 **Voltooiing Checklist:**
-- [ ] De workshop repository geforkt naar mijn GitHub account
-- [ ] Mijn fork lokaal gekloond en de site werkend gekregen (`pnpm dev`)
-- [ ] Mijn eerste feature branch aangemaakt (`feat/personaliseer-tracker`)
-- [ ] **Deze voortgangstracker bewerkt** met mijn persoonlijke informatie
+- [x] De workshop repository geforkt naar mijn GitHub account
+- [x] Mijn fork lokaal gekloond en de site werkend gekregen (`pnpm dev`)
+- [x] Mijn eerste feature branch aangemaakt (`feat/code-fase`)
+- [x] **Deze voortgangstracker bewerkt** met mijn persoonlijke informatie
 - [ ] Mijn eerste commit gemaakt met een goede commit message
 - [ ] Mijn branch gepusht naar GitHub
 - [ ] Mijn eerste Pull Request aangemaakt en gemerged
 - [ ] Geverifieerd dat mijn wijzigingen live zijn op mijn main branch
 
+**Mijn Code Fase Notities:**
 
-**Tijdstempel Voltooid:** `[Voeg toe wanneer klaar]`
+Begonnen met DevOps leren door hands-on oefening!
+- Git workflow voelt nu natuurlijker
+- Begrijp hoe branches veilige samenwerking mogelijk maken
+- Enthousiast om mijn wijzigingen later automatisch te zien deployen
+
+
+**Tijdstempel Voltooid:** ``
 
 ---
 
